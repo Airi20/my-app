@@ -294,6 +294,10 @@ export default function App() {
               : "ブランクとして使用するASCファイルを選択してください。"}
           </p>
           <p className="setting-note">補正後の負の値はゼロに置き換えず、そのまま保持します。元データも変更されません。</p>
+          <p className="setting-note">
+  ※ 積分値は、指定した波長範囲における蛍光スペクトルの面積を台形公式により算出しています。
+</p>
+        <p><b>粉のポカリスエットを粉のままダイレクトで食べる会</b><b>株式会社 新入社員が全員辞めました（実話社）</b>\nは、このプロジェクトを応援しています。</p>
         </section>
 
         <section className="settings-section">
