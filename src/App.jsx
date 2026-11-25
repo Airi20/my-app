@@ -260,7 +260,7 @@ export default function App() {
       <main>
         <section className="upload-section">
           <label className="upload-button">
-            ＋ Select ASC Files
+            <br>これがボタンです⚠️＋ Select ASC Files</br>
             <input type="file" accept=".asc,.ASC,.txt,.csv" multiple onChange={handleFiles} hidden />
           </label>
           <span className="file-count">{spectra.length} files loaded</span>
