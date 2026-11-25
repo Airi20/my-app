@@ -1,4 +1,4 @@
-```jsx
+
 import { useState, useMemo, useRef } from "react";
 import "./App.css";
 
@@ -473,4 +473,4 @@ export default function App() {
     </div>
   );
 }
-```
+
